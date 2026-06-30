@@ -207,16 +207,6 @@ Built while strengthening Java fundamentals.
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Srvankit&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
