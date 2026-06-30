@@ -103,6 +103,54 @@ Problem Solving         ███████████░░
 
 Git & GitHub            ███████████░░
 ```
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srvankit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srvankit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Srvankit&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Srvankit&theme=tokyo-night)](https://github.com/Srvankit)
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srvankit&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Srvankit&label=Profile+Views&color=blueviolet&style=flat"/>
+
+</p>
+
 ## 💡 Developer Philosophy
 
 > "Code is not just about making things work; it's about building solutions that scale, last, and make an impact."
