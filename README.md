@@ -219,11 +219,29 @@ Built while strengthening Java fundamentals.
 
 ---
 
-# 🏆 GitHub Achievements
+---
+
+# 📊 GitHub Profile Summary
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srvankit&theme=onedark&no-frame=true&row=1&column=7"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srvankit&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srvankit&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srvankit&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srvankit&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srvankit&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
