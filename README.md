@@ -105,6 +105,90 @@ Git & GitHub            ███████████░░
 ```
 ---
 
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔍 Deep Packet Inspection
+
+Enterprise-grade network packet inspection tool built using **Java**, **Spring Boot**, and **Pcap4J**.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Networking`
+
+🚧 Currently under development
+
+</td>
+
+<td width="50%">
+
+### 🤖 InterviewX
+
+AI-powered interview preparation platform featuring mock interviews, technical assessments, and performance insights.
+
+**Tech Stack**
+
+`React` `TypeScript` `AI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Developer Portfolio
+
+A responsive personal portfolio showcasing projects, skills, and experience.
+
+**Tech Stack**
+
+`React`
+
+🔗 https://frontend-developer-portfolio-ankit.netlify.app/
+
+</td>
+
+<td width="50%">
+
+### ☕ Java Projects
+
+✔ Hotel Management System
+
+✔ Stock Trading Platform
+
+✔ AI ChatBot
+
+✔ Library Management
+
+Built while strengthening Java fundamentals.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/srv_ankit_?theme=dark&font=Baloo&ext=contest"/>
+
+</p>
+
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -150,6 +234,72 @@ Git & GitHub            ███████████░░
 <img src="https://komarev.com/ghpvc/?username=Srvankit&label=Profile+Views&color=blueviolet&style=flat"/>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Srvankit/Srvankit/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Master Spring Boot
+
+- ✅ Build Industry-Level Backend Projects
+
+- ✅ Contribute to Open Source
+
+- ✅ Complete 300+ LeetCode Problems
+
+- ✅ Secure a Software Engineering Internship
+
+- ✅ Learn System Design
+
+- ✅ Become proficient in Cloud & DevOps
+
+- ✅ Keep Building Every Day 🚀
+
+---
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Srvankit">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankit-yadav-a55814331">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ankityadav.reh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://frontend-developer-portfolio-ankit.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+Thanks for visiting my profile ❤️
+
+Keep Learning • Keep Building • Keep Growing 🚀
+
+</h3>
 
 ## 💡 Developer Philosophy
 
