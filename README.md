@@ -110,11 +110,13 @@ Enterprise-grade network packet inspection tool built using **Java**, **Spring B
 
 ### 🤖 Agree2Met
 
-A modern **SaaS-based Digital Agreement Management Platform** that simplifies creating, organizing, and tracking agreements. It enables users to securely manage agreements, collaborate with multiple parties, schedule reminders, monitor agreement status through an intuitive dashboard, and centralize document management in one workspace.
+A modern **SaaS-based Digital Agreement Management Platform** that simplifies creating, organizing, and tracking agreements. 
 
 **Tech Stack**
 
-`React` `TypeScript` `AI`
+`JavaScript` `React` `Web-Dev Tools` 
+
+🚧 Currently under development
 
 </td>
 
