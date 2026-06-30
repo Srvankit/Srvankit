@@ -16,26 +16,6 @@ Building scalable applications one commit at a time 🚀
 
 <p align="center">
 
-<a href="https://github.com/Srvankit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ankit-yadav-a55814331">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ankityadav.reh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://frontend-developer-portfolio-ankit.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
-<p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Srvankit&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
@@ -52,9 +32,9 @@ Building scalable applications one commit at a time 🚀
 
 🔍 Building an **Industry-Level Deep Packet Inspection System**
 
-🤖 Creator of **InterviewX**, an AI-powered Interview Preparation Platform
+🤖 Creator of **Agree2Met**, an AI-powered Digital Agreement Management Platform
 
-📚 Solved **150+ LeetCode Problems**
+📚 Solved **200+ LeetCode Problems**
 
 🌐 Exploring Open Source & Real World Software Development
 
@@ -128,9 +108,9 @@ Enterprise-grade network packet inspection tool built using **Java**, **Spring B
 
 <td width="50%">
 
-### 🤖 InterviewX
+### 🤖 Agree2Met
 
-AI-powered interview preparation platform featuring mock interviews, technical assessments, and performance insights.
+A modern **SaaS-based Digital Agreement Management Platform** that simplifies creating, organizing, and tracking agreements. It enables users to securely manage agreements, collaborate with multiple parties, schedule reminders, monitor agreement status through an intuitive dashboard, and centralize document management in one workspace.
 
 **Tech Stack**
 
